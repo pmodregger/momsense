@@ -1,0 +1,12 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis 
+# Calibration done at Fri Sep 20 14:42:07 2024
+poni_version: 2
+Detector: NexusDetector
+Detector_config: {"filename": "E-08-0144_Spatial_20240205.h5"}
+Distance: 0.29680009971659754
+Poni1: 0.08358315363669534
+Poni2: 0.07811479642988076
+Rot1: -0.0025021742150472892
+Rot2: 0.000762360060989563
+Rot3: 0.0
+Wavelength: 1.78233e-11
